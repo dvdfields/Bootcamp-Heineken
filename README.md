@@ -26,3 +26,14 @@ Pagamento – Pode ter cadastrado mais de uma forma de pagamento;
 Entrega – Possui status e código de rastreio;
 
 
+# Desafio | Construindo seu Primeiro Projeto Lógico de Banco de Dados
+
+O objetivo desse desafio é replicar a modelagem de um banco de dados para um cenário de e-commerce. 
+
+
+## Arquivos
+
+- Esquema relacional ecommerce.sql - Criação das tabelas com SQL
+- Data inserction ecommerce.sql - Inserção de dados nas tabelas
+- Queries Ecommerce.sql - Execução de queries para gerar insights sobre os dados persistidos
+- Esquema Relacional Ecommerce.png - Diagrama do Esquema Relacional da base de dados
